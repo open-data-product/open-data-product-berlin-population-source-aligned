@@ -10,18 +10,17 @@ product:
     visibility: public
     OutputFileFormats: []
     brandSlogan:
-    categories:
-      - timeseries
+    categories: []
     description: Source-aligned data product providing Berlin population data
-    logoURL: https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-lor-population-source-aligned/refs/heads/main/logo-with-text.png
-    productSeries: Berlin Timeseries Series
+    logoURL: https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-population-source-aligned/refs/heads/main/logo-with-text.png
+    productSeries:
     standards: []
     tags:
       - berlin
       - lor
       - population
     useCases: []
-    valueProposition: Providing Berlin population data
+    valueProposition:
     version: '1.0'
   sla: []
   dataAccess:

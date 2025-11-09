@@ -1,7 +1,7 @@
 
 # Data Product Descriptor Specification (DPDS) Canvas - Berlin Population (source-aligned)
 
-* data product descriptor: 1.0.0
+* data product descriptor: data-product-descriptor
 
 ## Info
 
@@ -11,6 +11,7 @@
 * version: 1.0
 * display name: Berlin Population (source-aligned)
 * description: Source-aligned data product providing Berlin population data
+* domain: domain
 ### Owner
 
 * id: Open Data product

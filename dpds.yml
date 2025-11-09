@@ -1,10 +1,10 @@
 ---
-dataProductDescriptor: 1.0.0
+dataProductDescriptor: data-product-descriptor
 info:
   fullyQualifiedName: urn:dpds:opendataproduct:dataproducts:berlin-population-source-aligned:1.0
   name: Berlin Population (source-aligned)
   version: '1.0'
-  domain: ''
+  domain: domain
   owner:
     id: Open Data product
     name: Open Data product
