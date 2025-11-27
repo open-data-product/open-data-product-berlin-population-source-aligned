@@ -59,6 +59,8 @@
 * fully qualified name: berlin-lor-population-2024-01
 #### berlin-lor-population-2024-02
 * fully qualified name: berlin-lor-population-2024-02
+#### berlin-lor-population-2025-01
+* fully qualified name: berlin-lor-population-2025-01
 
 ### Output Ports
 #### berlin-lor-population-2015-01-csv
@@ -141,6 +143,10 @@
 * fully qualified name: berlin-lor-population-2024-02-csv
 #### berlin-lor-population-2024-02-parquet
 * fully qualified name: berlin-lor-population-2024-02-parquet
+#### berlin-lor-population-2025-01-csv
+* fully qualified name: berlin-lor-population-2025-01-csv
+#### berlin-lor-population-2025-01-parquet
+* fully qualified name: berlin-lor-population-2025-01-parquet
 
 
 ---

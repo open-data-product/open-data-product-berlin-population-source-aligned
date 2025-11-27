@@ -1041,3 +1041,25 @@ input_ports:
       - { source_file_name: berlin-lor-population-2024-02-t4.csv , target_file_name: berlin-lor-population-2024-02-t4-forecast-areas.csv, aggregate_by: id , names: *t4-forecast-areas }
       - { source_file_name: berlin-lor-population-2024-02-t4.csv , target_file_name: berlin-lor-population-2024-02-t4-district-regions.csv, aggregate_by: id , names: *t4-district-regions }
       - { source_file_name: berlin-lor-population-2024-02-t4.csv , target_file_name: berlin-lor-population-2024-02-t4-planning-areas.csv , aggregate_by: id , names: *t4-planning-areas }
+  - id: berlin-lor-population-2025-01
+    files:
+      - { source_file_name: berlin-lor-population-2025-01-t1.csv,  target_file_name: berlin-lor-population-2025-01-t1-city.csv , aggregate_by: total , names: *t1-city }
+      - { source_file_name: berlin-lor-population-2025-01-t1.csv , target_file_name: berlin-lor-population-2025-01-t1-districts.csv, aggregate_by: id , names: *t1-districts }
+      - { source_file_name: berlin-lor-population-2025-01-t1.csv , target_file_name: berlin-lor-population-2025-01-t1-forecast-areas.csv, aggregate_by: id , names: *t1-forecast-areas }
+      - { source_file_name: berlin-lor-population-2025-01-t1.csv , target_file_name: berlin-lor-population-2025-01-t1-district-regions.csv, aggregate_by: id , names: *t1-district-regions }
+      - { source_file_name: berlin-lor-population-2025-01-t1.csv , target_file_name: berlin-lor-population-2025-01-t1-planning-areas.csv, aggregate_by: id , names: *t1-planning-areas }
+      - { source_file_name: berlin-lor-population-2025-01-t2.csv , target_file_name: berlin-lor-population-2025-01-t2-city.csv, aggregate_by: total , names: *t2-city }
+      - { source_file_name: berlin-lor-population-2025-01-t2.csv , target_file_name: berlin-lor-population-2025-01-t2-districts.csv, aggregate_by: id , names: *t2-districts }
+      - { source_file_name: berlin-lor-population-2025-01-t2.csv , target_file_name: berlin-lor-population-2025-01-t2-forecast-areas.csv, aggregate_by: id , names: *t2-forecast-areas }
+      - { source_file_name: berlin-lor-population-2025-01-t2.csv , target_file_name: berlin-lor-population-2025-01-t2-district-regions.csv, aggregate_by: id , names: *t2-district-regions }
+      - { source_file_name: berlin-lor-population-2025-01-t2.csv , target_file_name: berlin-lor-population-2025-01-t2-planning-areas.csv, aggregate_by: id , names: *t2-planning-areas }
+      - { source_file_name: berlin-lor-population-2025-01-t3.csv , target_file_name: berlin-lor-population-2025-01-t3-city.csv, aggregate_by: total , names: *t3-city }
+      - { source_file_name: berlin-lor-population-2025-01-t3.csv , target_file_name: berlin-lor-population-2025-01-t3-districts.csv, aggregate_by: id , names: *t3-districts }
+      - { source_file_name: berlin-lor-population-2025-01-t3.csv , target_file_name: berlin-lor-population-2025-01-t3-forecast-areas.csv, aggregate_by: id , names: *t3-forecast-areas }
+      - { source_file_name: berlin-lor-population-2025-01-t3.csv , target_file_name: berlin-lor-population-2025-01-t3-district-regions.csv, aggregate_by: id , names: *t3-district-regions }
+      - { source_file_name: berlin-lor-population-2025-01-t3.csv , target_file_name: berlin-lor-population-2025-01-t3-planning-areas.csv, aggregate_by: id , names: *t3-planning-areas }
+      - { source_file_name: berlin-lor-population-2025-01-t4.csv , target_file_name: berlin-lor-population-2025-01-t4-city.csv, aggregate_by: total , names: *t4-city }
+      - { source_file_name: berlin-lor-population-2025-01-t4.csv , target_file_name: berlin-lor-population-2025-01-t4-districts.csv, aggregate_by: id , names: *t4-districts }
+      - { source_file_name: berlin-lor-population-2025-01-t4.csv , target_file_name: berlin-lor-population-2025-01-t4-forecast-areas.csv, aggregate_by: id , names: *t4-forecast-areas }
+      - { source_file_name: berlin-lor-population-2025-01-t4.csv , target_file_name: berlin-lor-population-2025-01-t4-district-regions.csv, aggregate_by: id , names: *t4-district-regions }
+      - { source_file_name: berlin-lor-population-2025-01-t4.csv , target_file_name: berlin-lor-population-2025-01-t4-planning-areas.csv , aggregate_by: id , names: *t4-planning-areas }

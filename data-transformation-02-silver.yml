@@ -263,3 +263,12 @@ input_ports:
           - { target_file_name: berlin-lor-population-2024-02-t2.csv, sheet_name: T2, names: *t2, skip_rows: 4, dropna: True }
           - { target_file_name: berlin-lor-population-2024-02-t3.csv, sheet_name: T3, names: *t3, skip_rows: 4, dropna: True }
           - { target_file_name: berlin-lor-population-2024-02-t4.csv, sheet_name: T4, names: *t4, skip_rows: 6, dropna: True }
+  - id: berlin-lor-population-2025-01
+    files:
+      - source_file_name: SB_A01-16-00_2025h01_BE.xlsx
+        target_file_name: berlin-lor-population-2025-01.xlsx
+        datasets:
+          - { target_file_name: berlin-lor-population-2025-01-t1.csv, sheet_name: T1, names: *t1, skip_rows: 7, dropna: True }
+          - { target_file_name: berlin-lor-population-2025-01-t2.csv, sheet_name: T2, names: *t2, skip_rows: 4, dropna: True }
+          - { target_file_name: berlin-lor-population-2025-01-t3.csv, sheet_name: T3, names: *t3, skip_rows: 4, dropna: True }
+          - { target_file_name: berlin-lor-population-2025-01-t4.csv, sheet_name: T4, names: *t4, skip_rows: 6, dropna: True }

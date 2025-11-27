@@ -535,6 +535,32 @@ interfaceComponents:
       componentGroup:
       tags:
       externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-lor-population-2025-01-csv
+      fullyQualifiedName: berlin-lor-population-2025-01-csv
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-lor-population-2025-01-parquet
+      fullyQualifiedName: berlin-lor-population-2025-01-parquet
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
   inputPorts:
     - promises:
       expectations:
@@ -788,6 +814,19 @@ interfaceComponents:
       obligations:
       id: berlin-lor-population-2024-02
       fullyQualifiedName: berlin-lor-population-2024-02
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-lor-population-2025-01
+      fullyQualifiedName: berlin-lor-population-2025-01
       entityType:
       name: ''
       version:
