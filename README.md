@@ -1,15 +1,15 @@
-[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-berlin-lor-population-source-aligned)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-population-source-aligned/issues)
+[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-berlin-population-source-aligned)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-population-source-aligned/issues)
 
 <br />
 <p align="center">
-  <a href="https://github.com/open-data-product/open-data-product-berlin-lor-population-source-aligned">
+  <a href="https://github.com/open-data-product/open-data-product-berlin-population-source-aligned">
     <img src="logo-with-text.png" alt="Logo" style="height: 80px; ">
   </a>
 
-  <h1 align="center">Berlin LOR Population (source-aligned)</h1>
+  <h1 align="center">Berlin Population (source-aligned)</h1>
 
   <p align="center">
-    Source-aligned data product providing Berlin LOR population data
+    Source-aligned data product providing Berlin population data
   </p>
 </p>
 
@@ -67,7 +67,7 @@ uv run main.py
 ## Roadmap
 
 See
-the [open issues](https://github.com/open-data-product/open-data-product-berlin-lor-population-source-aligned/issues)
+the [open issues](https://github.com/open-data-product/open-data-product-berlin-population-source-aligned/issues)
 for a list of proposed features (and
 known issues).
 

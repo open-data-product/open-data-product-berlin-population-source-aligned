@@ -1,5 +1,5 @@
 
-# Open Data Product Specification (ODPS) Canvas - Berlin LOR Population (source-aligned)
+# Open Data Product Specification (ODPS) Canvas - Berlin Population (source-aligned)
 
 * schema version: 3.1
 ## Product
@@ -7,14 +7,14 @@
 ### Basic Information
 
 * categories: timeseries
-* description: Source-aligned data product providing Berlin LOR population data
+* description: Source-aligned data product providing Berlin population data
 * logo URL: https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-lor-population-source-aligned/refs/heads/main/logo-with-text.png
-* product ID: berlin-lor-population-source-aligned
+* product ID: berlin-population-source-aligned
 * product series: Berlin Timeseries Series
 * status: active
 * tags: berlin, lor, population
 * type: source-aligned
-* value proposition: Providing Berlin LOR population data
+* value proposition: Providing Berlin population data
 * version: 1.0
 * visibility: public
 

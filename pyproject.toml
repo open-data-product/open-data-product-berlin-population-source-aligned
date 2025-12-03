@@ -1,7 +1,7 @@
 [project]
-name = "open-data-product-berlin-lor-population-source-aligned"
+name = "open-data-product-berlin-population-source-aligned"
 version = "0.1.0"
-description = "Source-aligned data product providing Berlin LOR population data"
+description = "Source-aligned data product providing Berlin population data"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
