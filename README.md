@@ -1,4 +1,4 @@
-[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-berlin-population-source-aligned)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-population-source-aligned/issues)
+[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-berlin-population-source-aligned)](https://github.com/open-data-product/open-data-product-berlin-population-source-aligned/issues)
 
 <br />
 <p align="center">
